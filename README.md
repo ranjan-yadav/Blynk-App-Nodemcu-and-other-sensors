@@ -16,7 +16,7 @@ The NEO-6M GPS module is a well-performing complete GPS receiver with a built-in
 
 I have made a app using customised blynk app, which has several fields like latitude, longitude, speed , drection, satelite, maps through which it is easy for user to trace.
 
-Video link->
+Video link->https://drive.google.com/drive/u/1/folders/189jLURxglqdD4g--GEWAxRvgU4g7BfvY
 
 Obstacle avoidance-
 
@@ -28,4 +28,4 @@ Several fields like red blynk(in app) -> distance< 10
                     green(in app)->   30<distance<=50
                     
         if distance is less than 10, it will again show a pop up message that object is very near to it.
-Video demonstration->
+Video demonstration->https://drive.google.com/drive/u/1/folders/189jLURxglqdD4g--GEWAxRvgU4g7BfvY
