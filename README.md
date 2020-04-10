@@ -26,6 +26,5 @@ several condition is also given according to which it tells the user about statu
 Several fields like red blynk(in app) -> distance< 10
                     yellow(in app) ->  10<distance<=30
                     green(in app)->   30<distance<=50
-                    
-        if distance is less than 10, it will again show a pop up message that object is very near to it.
+if distance is less than 10, it will again show a pop up message that object is very near to it.
 Video demonstration->https://drive.google.com/drive/u/1/folders/189jLURxglqdD4g--GEWAxRvgU4g7BfvY
